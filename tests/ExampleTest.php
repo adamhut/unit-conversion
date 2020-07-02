@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Adamhut\UnitConversion\Tests;
 
 use PHPUnit\Framework\TestCase;
 

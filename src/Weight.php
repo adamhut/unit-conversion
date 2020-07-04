@@ -1,7 +1,6 @@
 <?php
 
 namespace Adamhut\UnitConversion;
-use Exception;
 
 class Weight
 {
@@ -12,7 +11,7 @@ class Weight
     {
         $arr = [
             'test',
-            'test'
+            'test',
         ];
 
         return (new static($kilograms));

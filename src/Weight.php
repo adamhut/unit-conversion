@@ -1,6 +1,7 @@
 <?php
 
 namespace Adamhut\UnitConversion;
+use Exception;
 
 class Weight
 {
@@ -9,6 +10,11 @@ class Weight
 
     public static function fromKilograms(float $kilograms):self
     {
+        $arr = [
+            'test',
+            'test'
+        ];
+
         return (new static($kilograms));
     }
 

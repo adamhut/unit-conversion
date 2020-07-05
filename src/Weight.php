@@ -27,5 +27,4 @@ class Weight
     {
         return $this->kilograms * 2.204623;
     }
-
 }

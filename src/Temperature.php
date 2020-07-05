@@ -1,9 +1,8 @@
-<?php 
+<?php
 namespace Adamhut\UnitConversion;
 
-
-class Temperature{
-
+class Temperature
+{
     protected $celcius;
 
 
@@ -19,7 +18,6 @@ class Temperature{
 
     public function toFahrenheit(): float
     {
-        return ($this->celcius * 1.8) + 32; 
+        return ($this->celcius * 1.8) + 32;
     }
-
 }

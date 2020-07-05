@@ -2,6 +2,9 @@
 
 All notable changes to `unit-conversion` will be documented in this file
 
+## 1.1.1- 2020-07-05
+- update Readme
+    - Correct some content
 
 ## 1.1.0 - 2020-07-05
 - Add temperature coversion 
